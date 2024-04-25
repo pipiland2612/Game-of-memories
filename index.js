@@ -1,4 +1,4 @@
-
+// Hello World iam writing the shit sentence to make change to the git control
 function makeSound(name) {
     var audio = new Audio("./sounds/"+name+".mp3")
     audio.volume = 0.1;
